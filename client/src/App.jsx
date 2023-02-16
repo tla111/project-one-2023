@@ -1,10 +1,10 @@
 import React from 'react'
+import Day from './components/Day'
 
 const App = () => {
   return (
     <div>
-      <h1>Project One</h1>
-      <h2>Day 2</h2>
+      <Day />
     </div>
   )
 }
