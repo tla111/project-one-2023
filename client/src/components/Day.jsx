@@ -30,8 +30,10 @@ const Day = () => {
                 <ol>03/13/23</ol>
                 <ol>03/14/23</ol>
                 <ol>03/15/23</ol>
+                <ol>03/16/23</ol>
             </ul>
             <ul>
+                <ol>Inactivity</ol>
                 <ol>Inactivity</ol>
                 <ol>Inactivity</ol>
                 <ol>Inactivity</ol>
