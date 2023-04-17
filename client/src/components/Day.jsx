@@ -59,8 +59,10 @@ const Day = () => {
                 <ol>04/14/23</ol>
                 <ol>04/15/23</ol>
                 <ol>04/16/23</ol>
+                <ol>04/17/23</ol>
             </ul>
             <ul>
+                <ol>Inactivity</ol>
                 <ol>Inactivity</ol>
                 <ol>Inactivity</ol>
                 <ol>Inactivity</ol>
